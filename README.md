@@ -1,8 +1,3 @@
-# Hiring-Salary-Prediction-Model
-This README is designed to be professional, clear, and visually engaging for anyone visiting your GitHub repository. You can copy the content below and save it as a file named `README.md`.
-
----
-
 # Salary Prediction Model using Linear Regression
 
 This project implements a **Multiple Linear Regression** model to automate salary estimations for an HR department. The model predicts a candidate's salary based on three key factors: experience, written test score, and personal interview score.
@@ -26,7 +21,6 @@ The goal is to provide a data-driven approach to hiring by analyzing historical 
 * **Libraries:** * `Pandas`: For data manipulation and cleaning.
 * `Scikit-Learn`: For building and training the Linear Regression model.
 * `Word2Number`: To convert text-based experience (e.g., "five") into integers.
-
 
 
 ---
@@ -68,4 +62,3 @@ pip install pandas scikit-learn word2number
 
 ---
 
-**Next Step:** Would you like me to help you write a `requirements.txt` file or create a data visualization script to show the correlation between experience and salary?
